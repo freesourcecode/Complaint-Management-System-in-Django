@@ -1,4 +1,4 @@
-# Django Complaint Management System with Source Code
+# Complaint Management System in Django with Source Code
 The **Complaint Management System in Django created based on Python, Django, and SQLITE3 Database**. 
 
 Harassment cases can also be investigated by the Grievance Cell.
